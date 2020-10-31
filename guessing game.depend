@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604130980 source:c:\users\anubh\downloads\codeblocks\guessing game\guessing_game.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
